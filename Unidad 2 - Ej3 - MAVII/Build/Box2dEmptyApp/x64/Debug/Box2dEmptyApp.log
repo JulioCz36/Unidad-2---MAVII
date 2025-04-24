@@ -1,0 +1,5 @@
+﻿  Box2dEmptyApp.cpp
+  Game.cpp
+C:\Users\JulioCZ\Documents\2 - Cuatri_1\MAVII\U2\Ejercicios Unidad 2\Unidad 2 - Ej3 - MAVII\Src\Game.cpp(141,79): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+  Generando código...
+  Box2dEmptyApp.vcxproj -> C:\Users\JulioCZ\Documents\2 - Cuatri_1\MAVII\U2\Ejercicios Unidad 2\Unidad 2 - Ej3 - MAVII\Bin\Debug\Box2dEmptyApp.exe
