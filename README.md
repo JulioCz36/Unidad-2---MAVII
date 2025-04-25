@@ -35,7 +35,6 @@ Simulación de una caja que se desliza por un plano inclinado. Se analiza el efe
 Desde el extremo izquierdo de la pantalla se dispara un objeto. Se puede modificar el ángulo del disparo. Inspirado en la lógica de trayectorias parabólicas.
 
 ## 👨‍💻 Autor
-
-JulioCZ
-1° Cuatrimestre – Año 2025
-Tecnicatura en Diseño y Programación de Videojuegos
+- **JulioCZ**  
+- 1° Cuatrimestre – Año 2025
+- Tecnicatura en Diseño y Programación de Videojuegos
